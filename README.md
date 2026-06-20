@@ -1,5 +1,4 @@
-# 💫 About Me:
-👋 Hi there, I’m Zaid Daoud<br><br>💼 I'm currently working on: building scalable IT infrastructures and smart digital tools for businesses at SwiftNet Solutions.<br>🤝 I'm looking to collaborate on: open-source DevOps tools, automation scripts, and web apps that make tech simpler.<br>🧠 I'm looking for help with: refining CI/CD pipelines and optimizing Docker/Proxmox environments.<br>📚 I'm currently learning: advanced cloud networking, microservices architecture, and AI-driven cost modeling.<br>💬 Ask me about: system integration, IT automation, print production workflows, or setting up pfSense and Proxmox clusters.<br>🎯 Fun fact: I test new ideas by actually deploying them, nothing stays theoretical for long 😎
+👋 Hi there, I’m Zaid Daoud
 
 
 ## 🌐 Socials:
